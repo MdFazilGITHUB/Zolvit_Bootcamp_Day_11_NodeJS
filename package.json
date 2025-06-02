@@ -1,0 +1,25 @@
+{
+  "name": "zolvit_bootcamp_day_11_nodejs",
+  "version": "1.0.0",
+  "description": "- Error handling in Express\r - Express middleware\r - Status codes & logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_11_NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_11_NodeJS/issues"
+  },
+  "homepage": "https://github.com/MdFazilGITHUB/Zolvit_Bootcamp_Day_11_NodeJS#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "morgan": "^1.10.0"
+  }
+}
